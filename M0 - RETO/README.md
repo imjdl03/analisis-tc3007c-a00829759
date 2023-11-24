@@ -1,5 +1,5 @@
 # RETO
-Esta es la carpeta del Portafolio de Implementación para modulo de Reto. En esta carpeta se encontrarán los diferentes archivos, reportes y scripts correspondientes a las entregas del portafolio de Implementación segun lo solicitado por el profesor.
+Esta es la carpeta del Portafolio de Analisis para modulo de Reto. En esta carpeta se encontrarán los diferentes archivos, reportes y scripts correspondientes a las entregas del portafolio de Implementación segun lo solicitado por el profesor.
 
 * Nombre: Jorge Eduardo De León Reyna
 * Matricula: A00829759
