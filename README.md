@@ -1,4 +1,4 @@
-# Repositorio Equipo 5 TC3006C
+# Repositorio De Anslisis - TC3006C
 Este es el repositorio del Portafolio de Analisis para la UF TC3007C. En este repositorio se encontrarán los diferentes archivos, reportes y scripts correspondientes a las entregas del portafolio de analisis para cada modulo y para el reto segun fue indicado en las instrucciones correspondientes.
 
 * Nombre: Jorge Eduardo De León Reyna
