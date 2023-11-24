@@ -1,5 +1,5 @@
 # M1 - BIG DATA
-Esta es la carpeta del Portafolio de Implementación para el Modulo 1 - Big Data. En esta carpeta se encontrarán los diferentes archivos, reportes y scripts correspondientes a las entregas del portafolio de Implementación segun lo solicitado por el profesor.
+Esta es la carpeta del Portafolio de Analisis para el Modulo 1 - Big Data. En esta carpeta se encontrarán los diferentes archivos, reportes y scripts correspondientes a las entregas del portafolio de analisis segun lo solicitado por el profesor.
 
 * Nombre: Jorge Eduardo De León Reyna
 * Matricula: A00829759
