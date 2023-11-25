@@ -10,4 +10,5 @@ La carpeta "M2 - DEEP LEARNING" incluye los siguientes archivos para su revision
 * **Archivos**
   * README.md: Este archivo
   * A1 - Implementacion de un modelo de Deep Learning.pdf: Archivo PDF correspondiene al reporte de la actividad.
+  * Link a video de entrega grupal.pdf: Archivo PDF correspondiene al link del video de la actividad.
 * **Folders**
